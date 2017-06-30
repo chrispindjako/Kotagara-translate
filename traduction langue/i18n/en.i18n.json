@@ -109,6 +109,108 @@
             }
         },
         "what_our_owners_think": "What our owners think"
-
+    },
+    /*the FAQ page*/
+    "FAQ": {
+        "Owners": {
+            "title": "",
+            "side_nav": {
+                "registration": "Registration",
+                "location": "",
+                "rules_of_the_community": "",
+                "the_small_unexpected": ""
+            },
+            "content": {
+                "registration": {
+                    "title": "?",
+                    "content": ".",
+                    "box": {
+                        "title": " ?",
+                        "content": ".",
+                        "link": "Visit Website"
+                    }
+                },
+                "location": {
+                    "title": "",
+                    "content": " ?",
+                    "detail": ".",
+                    "how_to_rent_my_car": {
+                        "title": " ?",
+                        "content": "."
+                    }
+                }
+            }
+        },
+        "Tenants": {
+            "title": ""
+        }
+    },
+    /*the contact page*/
+    "contact": {
+        "title": " ?",
+        "lead": {
+            "title": "...",
+            "content": {
+                "line_1": ".",
+                "line_2": "."
+            }
+        },
+        "form": {
+            "title": "",
+            "first_name": "",
+            "name": "Name",
+            "E-Mail": "E-Mail",
+            "number": "number",
+            "address": "Address",
+            "city": "City",
+            "preoccupation": {
+                "title": "",
+                "content": ""
+            },
+            "zip_code": "ZIP Code",
+            "submit": "Submit"
+        },
+        "contact_kotacar": "Contact KOTACAR"
+    },
+    /*the how it works page*/
+    "whow_it_works": {
+        "title": "Need a vehicle for rent?",
+        "lead1": {
+            "title": " …",
+            "content": {
+                "heading1": {
+                    "title": " .",
+                    "content": ""
+                },
+                "heading2": {
+                    "title": ".",
+                    "content": "."
+                },
+                "heading3": {
+                    "title": " .",
+                    "content": "."
+                }
+            }
+        },
+        "illustration": {
+            "content": " ?"
+        },
+        "lead2": {
+            "title": "…",
+            "content": {
+                "heading1": {
+                    "title": " .",
+                    "content": ""
+                },
+                "heading2": {
+                    "title": ".",
+                    "content": "."
+                },
+                "heading3": {
+                    "title": "",
+                    "content": "."
+                }
+            }
+        }
     }
 }

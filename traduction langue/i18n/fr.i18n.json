@@ -107,6 +107,108 @@
             }
         },
         "what_our_owners_think": "Ce qu'en pensent nos propriétaires"
-
+    },
+    /*the FAQ page*/
+    "FAQ": {
+        "Owners": {
+            "title": "FAQ propriétaires",
+            "side_nav": {
+                "registration": "Inscription",
+                "location": "Déroulement des locations",
+                "rules_of_the_community": "Les règles de la communauté",
+                "the_small_unexpected": "Les petits imprévus"
+            },
+            "content": {
+                "registration": {
+                    "title": "Comment se passe l'inscription ?",
+                    "content": "Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.",
+                    "box": {
+                        "title": "Qu'est-ce que la Box Kotacar ?",
+                        "content": "Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.",
+                        "link": "Visit Website"
+                    }
+                },
+                "location": {
+                    "title": "Déroulement des locations",
+                    "content": "Quelles sont mes obligations en tant que propriétaire ?",
+                    "detail": "Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.",
+                    "how_to_rent_my_car": {
+                        "title": "Comment louer ma voiture ?",
+                        "content": "Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi."
+                    }
+                }
+            }
+        },
+        "Tenants": {
+            "title": "FAQ locataires"
+        }
+    },
+    /*the contact page*/
+    "contact": {
+        "title": "Locataire ou propriétaire ?",
+        "lead": {
+            "title": "Trouver des réponses à vos questions dans notre centre d’aide..",
+            "content": {
+                "line_1": "Si vos questions n’y sont pas traitées, contacter nous en remplissant le formulaire ci –dessous.",
+                "line_2": "Nous transmettrons vos questions à l’équipe concernée qui se chargera de vous répondre dans les plus brefs délais."
+            }
+        },
+        "form": {
+            "title": "Contactez nous dès aujourd'hui",
+            "first_name": "Prénom",
+            "name": "Nom",
+            "E-Mail": "E-Mail",
+            "number": "numéro",
+            "address": "Adresse",
+            "city": "Ville",
+            "preoccupation": {
+                "title": "Préocupation",
+                "content": "Décrivez ici le problème que vous avez rencontré"
+            },
+            "zip_code": "Code postale",
+            "submit": "Envoyer"
+        },
+        "contact_kotacar": "Contacter KOTACAR"
+    },
+    /*the how it works page*/
+    "whow_it_works": {
+        "title": "Besoin d’un véhicule à louer?",
+        "lead1": {
+            "title": "Avec KOTACAR, c’est simple, facile et rapide…",
+            "content": {
+                "heading1": {
+                    "title": "Créer votre compte.",
+                    "content": "Remplisser le formulaire de création de compte en inscrivant  vos données (nom, prénom, adresse, e-mail…)"
+                },
+                "heading2": {
+                    "title": "Chercher et réservez le véhicule de votre choix.",
+                    "content": "Utiliser le filtre pour chercher le véhicule de votre choix puis réservez-le en vous informant sur les conditions de location."
+                },
+                "heading3": {
+                    "title": "Récupérez son véhicule.",
+                    "content": "Après lecture et validation du contrat de location, acquitter vous des frais puis récupérer votre véhicule sur rendez-vous en accord avec le propriétaire."
+                }
+            }
+        },
+        "illustration": {
+            "content": "Comment proposer son véhicule à la location sur KOTACAR ?"
+        },
+        "lead2": {
+            "title": "Avec Kotacar, rentabiliser votre véhicule en trois étapes…",
+            "content": {
+                "heading1": {
+                    "title": "Créer votre compte.",
+                    "content": "Remplisser le formulaire de création de compte avec vos données (nom, prénom, adresse, e-mail…)"
+                },
+                "heading2": {
+                    "title": "Inscrivez votre véhicule.",
+                    "content": "Décriver votre véhicule en remplissant un formulaire. Ajouter des photos et définisser le prix de la location."
+                },
+                "heading3": {
+                    "title": "Validation de demande",
+                    "content": "Accepter et Valider la transaction en vous accordant avec le locataire sur les conditions de location et entrer en possession de vos gains via virement bancaire ou service mobile money."
+                }
+            }
+        }
     }
 }
