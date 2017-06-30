@@ -34,9 +34,9 @@
         },
         "newsletter": {
             "title": "newsletter",
-            "content": "",
+            "content": "Join and receive hot information on our last offers …",
             "form": {
-                "placeholder": "",
+                "placeholder": "Enter your mail",
                 "submit": "Register"
             }
         },
@@ -51,8 +51,8 @@
     "homepage": {
         "slider": {
             "content": {
-                "line_1": " !",
-                "line_2": " ."
+                "line_1": " Rent of vehicle in a click!",
+                "line_2": "Fast, easy, and cheaper."
             }
         },
         "latest_offers": {
