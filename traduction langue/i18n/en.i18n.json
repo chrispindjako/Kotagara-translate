@@ -18,8 +18,8 @@
         "about": {
             "title": "About",
             "content": {
-                "line_1": "",
-                "line_2": ""
+                "line_1": "KOTACAR is a platform creates by KOTAGARA. She allows you to rent quickly, at a lower cost and in complete safety, for vehicles of any kind also by giving you the possibility of putting in it rented.",
+                "line_2": "Feel reassured! Allianz insures all our rents, and we make your needs our priorities."
             }
         },
         "navigation": {
@@ -63,8 +63,8 @@
         "supplement_your_income": {
             "title": "Supplement your income",
             "content": {
-                "line_1": ".",
-                "line_2": "!"
+                "line_1": "Make rent your vehicle on free KOTACAR. registration.",
+                "line_2": "feel reassured! Allianz insures all our rents"
             },
             "button": "register my vehicle"
         },
