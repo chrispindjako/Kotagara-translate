@@ -87,5 +87,26 @@
         "latest_comments": {
             "has_rented_a": "a loué une"
         }
+    },
+    /*the rent car page*/
+    "rentCarPage": {
+        "header": "C’est facile, sécurisé et rentable…",
+        "how_to_propose": {
+            "title": "Comment proposer votre véhicule à la location sur Kotacar",
+            "register_your_vehicule": {
+                "title": "Inscrivez votre véhicule.",
+                "content": "Remplissez le formulaire pour décrire votre véhicule. Ajoutez des photos et définissez le prix."
+            },
+            "receive_requests": {
+                "title": "Recevez des demandes de location",
+                "content": "Recevez plusieurs demandes de location parmi lesquelles vous ferez votre choix."
+            },
+            "rent_your_vehicle": {
+                "title": "Mettre son véhicule en location",
+                "content": "Validez la transaction en vous accordant avec le locataire sur les conditions de location et entrer en possession de vos gains via virement bancaire ou service mobile money."
+            }
+        },
+        "what_our_owners_think": "Ce qu'en pensent nos propriétaires"
+
     }
 }
