@@ -1,0 +1,91 @@
+{
+    /*the header*/
+    "header": {
+        "hello": "Salut",
+        "Lang": "fr",
+        "dashboard": "Tableau de bord",
+        "logout": "Deconnexion",
+        "register": "S'inscrire",
+        "login": "Se connecter",
+        "rent_my_vehicle": "Louer mon véhicule",
+        "how_it_works": "Comment ça marche?",
+        "change_photo": "Changer photo",
+        "my_profile": "Mon Profile"
+    },
+    /*the footer*/
+    "footer": {
+        "about": {
+            "title": "A propos",
+            "content": {
+                "line_1": "KOTACAR est une plateforme crée par KOTAGARA. Elle vous permet de louer rapidement, à moindre coût et en toute sécurité, des véhicules de tout genre en vous donnant également la possibilité d’en mettre en location.",
+                "line_2": "Rassurez-vous! Allianz assure toutes nos locations, et nous veillons à faire de vos besoins nos priorités…"
+            }
+        },
+        "navigation": {
+            "title": "Navigation",
+            "content": {
+                "home": "Accueil",
+                "faq": "FAQ",
+                "contact": "Contact",
+                "how_it_works": "Comment ça marche?",
+                "rent_my_vehicle": "Louer mon véhicule"
+            }
+        },
+        "newsletter": {
+            "title": "newsletter",
+            "content": "Inscrivez-vous et recevez des informations à chaud sur nos dernières offres…",
+            "form": {
+                "placeholder": "Entrez votre Email",
+                "submit": "S'inscrire"
+            }
+        },
+        "bottom": {
+            "privacy_policy": "Politique de confidentialité",
+            "terms_of_use": "Conditions d'utilisation",
+            "site_plan": "Plan du site"
+        }
+    },
+    /*the homepage*/
+    "homepage": {
+        "slider": {
+            "content": {
+                "line_1": "Location de véhicule en un clic !",
+                "line_2": "Rapide, facile, et moins cher."
+            }
+        },
+        "latest_offers": {
+            "title": "DERNIERES OFFRES",
+            "from": "A partir de ",
+            "day": "Jour"
+        },
+        "supplement_your_income": {
+            "title": "Complétez vos revenus",
+            "content": {
+                "line_1": "Faites louer votre véhicule via KOTACAR, inscription gratuite.",
+                "line_2": "Pas de panique ! En cas d’incident Allianz  assure tout!"
+            },
+            "button": "inscrire mon véhicule"
+        },
+        "vehicle_types": {
+            "title": "Vehicle Types",
+            "type": {
+                "urban": "Citadine",
+                "utility": "Utlitaire",
+                "chopped_off": "Coupé",
+                "convertible": "Cabriolé",
+                "minibus": "Minibus",
+                "sedan": "Berline",
+                "domestic": "Familiale",
+                "suv": "SUV",
+                "4x4": "4X4"
+            }
+        },
+        "the_flagship_models": "Les modèles phares",
+        "mobile": {
+            "content": "Téléchargez nos applications mobiles"
+        },
+        "latest_comments": {
+            "has_rented_a": "a loué une"
+        }
+    }
+}

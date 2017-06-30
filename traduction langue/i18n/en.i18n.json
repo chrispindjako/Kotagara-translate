@@ -1,0 +1,93 @@
+{
+    /*the header*/
+    "header": {
+        "hello": "Hello",
+        "Lang": "en",
+        "dashboard": "Dashboard",
+        "logout": "Logout",
+        "register": "Register",
+        "login": "Login",
+        "rent_my_vehicle": "Rent my vehicle",
+        "how_it_works": "How it work?",
+        "change_photo": "Change photo",
+        "my_profile": "My Profile"
+
+    },
+    /*the footer*/
+    "footer": {
+        "about": {
+            "title": "About",
+            "content": {
+                "line_1": "",
+                "line_2": ""
+            }
+        },
+        "navigation": {
+            "title": "Navigation",
+            "content": {
+                "home": "",
+                "faq": "FAQ",
+                "contact": "",
+                "how_it_works": "How it works?",
+                "rent_my_vehicle": "Rent my vehicle"
+            }
+        },
+        "newsletter": {
+            "title": "newsletter",
+            "content": "",
+            "form": {
+                "placeholder": "",
+                "submit": "Register"
+            }
+        },
+        "bottom": {
+            "privacy_policy": "Privacy policy",
+            "terms_of_use": "Terms of use",
+            "site_plan": "Site plan"
+        }
+
+    },
+    /*the homepage*/
+    "homepage": {
+        "slider": {
+            "content": {
+                "line_1": " !",
+                "line_2": " ."
+            }
+        },
+        "latest_offers": {
+            "title": "LATEST OFFERS",
+            "from": "From",
+            "day": "Day"
+        },
+        "supplement_your_income": {
+            "title": "Supplement your income",
+            "content": {
+                "line_1": ".",
+                "line_2": "!"
+            },
+            "button": "register my vehicle"
+        },
+        "vehicle_types": {
+            "title": "Vehicle Types",
+            "type": {
+                "urban": "",
+                "utility": "",
+                "chopped_off": "",
+                "convertible": "",
+                "minibus": "",
+                "sedan": "",
+                "domestic": "",
+                "suv": "",
+                "4x4": ""
+            }
+        },
+        "the_flagship_models": "The flagship models",
+        "mobile": {
+            "content": ""
+        },
+        "latest_comments": {
+            "has_rented_a": "has rented a"
+        }
+    }
+}
