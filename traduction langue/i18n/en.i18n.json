@@ -89,5 +89,26 @@
         "latest_comments": {
             "has_rented_a": "has rented a"
         }
+    },
+    /*the rent car page*/
+    "rentCarPage": {
+        "header": "",
+        "how_to_propose": {
+            "title": "",
+            "register_your_vehicule": {
+                "title": ".",
+                "content": "."
+            },
+            "receive_requests": {
+                "title": "",
+                "content": "."
+            },
+            "rent_your_vehicle": {
+                "title": "",
+                "content": "."
+            }
+        },
+        "what_our_owners_think": "What our owners think"
+
     }
 }
