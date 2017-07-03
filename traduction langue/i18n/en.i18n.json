@@ -71,146 +71,23 @@
         "vehicle_types": {
             "title": "Vehicle Types",
             "type": {
-                "urban": "",
-                "utility": "",
-                "chopped_off": "",
-                "convertible": "",
-                "minibus": "",
-                "sedan": "",
-                "domestic": "",
-                "suv": "",
-                "4x4": ""
+                "urban": "town car",
+                "utility": "utility vehicle",
+                "chopped_off": "coupé",
+                "convertible": "cabriolé",
+                "minibus": "minibus",
+                "sedan": "Berline",
+                "domestic": "family car",
+                "suv": "suv",
+                "4x4": "4x4"
             }
         },
         "the_flagship_models": "The flagship models",
         "mobile": {
-            "content": ""
+            "content": "Download our mobile applications"
         },
         "latest_comments": {
             "has_rented_a": "has rented a"
-        }
-    },
-    /*the rent car page*/
-    "rentCarPage": {
-        "header": "",
-        "how_to_propose": {
-            "title": "",
-            "register_your_vehicule": {
-                "title": ".",
-                "content": "."
-            },
-            "receive_requests": {
-                "title": "",
-                "content": "."
-            },
-            "rent_your_vehicle": {
-                "title": "",
-                "content": "."
-            }
-        },
-        "what_our_owners_think": "What our owners think"
-    },
-    /*the FAQ page*/
-    "FAQ": {
-        "Owners": {
-            "title": "",
-            "side_nav": {
-                "registration": "Registration",
-                "location": "",
-                "rules_of_the_community": "",
-                "the_small_unexpected": ""
-            },
-            "content": {
-                "registration": {
-                    "title": "?",
-                    "content": ".",
-                    "box": {
-                        "title": " ?",
-                        "content": ".",
-                        "link": "Visit Website"
-                    }
-                },
-                "location": {
-                    "title": "",
-                    "content": " ?",
-                    "detail": ".",
-                    "how_to_rent_my_car": {
-                        "title": " ?",
-                        "content": "."
-                    }
-                }
-            }
-        },
-        "Tenants": {
-            "title": ""
-        }
-    },
-    /*the contact page*/
-    "contact": {
-        "title": " ?",
-        "lead": {
-            "title": "...",
-            "content": {
-                "line_1": ".",
-                "line_2": "."
-            }
-        },
-        "form": {
-            "title": "",
-            "first_name": "",
-            "name": "Name",
-            "E-Mail": "E-Mail",
-            "number": "number",
-            "address": "Address",
-            "city": "City",
-            "preoccupation": {
-                "title": "",
-                "content": ""
-            },
-            "zip_code": "ZIP Code",
-            "submit": "Submit"
-        },
-        "contact_kotacar": "Contact KOTACAR"
-    },
-    /*the how it works page*/
-    "whow_it_works": {
-        "title": "Need a vehicle for rent?",
-        "lead1": {
-            "title": " …",
-            "content": {
-                "heading1": {
-                    "title": " .",
-                    "content": ""
-                },
-                "heading2": {
-                    "title": ".",
-                    "content": "."
-                },
-                "heading3": {
-                    "title": " .",
-                    "content": "."
-                }
-            }
-        },
-        "illustration": {
-            "content": " ?"
-        },
-        "lead2": {
-            "title": "…",
-            "content": {
-                "heading1": {
-                    "title": " .",
-                    "content": ""
-                },
-                "heading2": {
-                    "title": ".",
-                    "content": "."
-                },
-                "heading3": {
-                    "title": "",
-                    "content": "."
-                }
-            }
         }
     }
 }
