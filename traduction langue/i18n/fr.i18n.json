@@ -210,5 +210,98 @@
                 }
             }
         }
+    },
+    /*detail page*/
+    "detail": {
+        "description": {
+            "title": "Description",
+            "air_conditioner": "Climatisation",
+            "speed_regulator": "Régulateur de vitesse",
+            "GPS": "GPS",
+            "baby_seat": "Siège bébé",
+            "roof_box": "Coffre de toit",
+            "bike_carriers": "Porte-vélos",
+            "cd_player": "Lecteur CD",
+            "audio_input": "Entrée audio",
+            "snow_tires": "Pneus neige",
+            "chains": "Chaines",
+            "ski_racks": "Porte-skis"
+        },
+        "accessoires": "Accessoires",
+        "localisation": "Localisation",
+        "i_rent": {
+            "title": "Je loue",
+            "year": "Année",
+            "manufacturer": "Constructeur",
+            "model": "Modèle",
+            "country_of_registration": "Pays immatriculation",
+            "places": "Places",
+            "portiaires": "Portiaires",
+            "mileage": "Kilométrage",
+            "transmission": "Transmission",
+            "fuel_economy": "Economie Carburant",
+            "size_engine": "Taille Engin",
+            "cylinders": "Cylindres",
+            "powers": "Puissances",
+            "type_fuel": "Type Carburant",
+            "warning": "Attention",
+            "unauthorized_owner": " Vous ne pouvez pas louer votre propre véhicule...",
+            "close": "Fermer"
+        }
+    },
+    /*components*/
+    "component": {
+        "search_form": {
+            "alert": {
+                "warning": "Attention!",
+                "alert_for_address": "Vous n'avez pas choisi votre adresse...",
+                "alert_for_date": "La date de fin doit être supérieur à la date de début..."
+            },
+            "no_found": {
+                "address": "aucune adresse trouvée",
+                "town": "ancune commune trouvée",
+                "city": "ancune ville trouvée"
+            },
+            "address": "Adresse",
+            "town": "Commune",
+            "city": "Ville",
+            "placeholder_position": "@Adresse, #Commune, &Ville"
+        },
+        "search_result": {
+            "search_filter": {
+                "title": "Filtre de recherche",
+                "number_of": "Nombre de",
+                "min_places": "places minimum",
+                "vehicle_age": "Âge du vehicule",
+                "up_to_5_years": "au plus 5ans",
+                "up_to_10_years": "au plus 10ans",
+                "more": "plus",
+                "price": "Prix",
+                "all_prices": "Tous les prix",
+                "accessories": {
+                    "title": "Accessoires",
+                    "cd_player": "Lecteur CD",
+                    "audio_input": "Entrée audio",
+                    "GPS": "GPS",
+                    "air_conditioner": "Climatisation",
+                    "speed_regulator": "Régulateur de vitesse",
+                    "baby_seat": "Siège bébé",
+                    "roof_box": "Coffre de toit",
+                    "bike_carriers": "Porte-vélos",
+                    "snow_tires": "Pneus neige",
+                    "chains": "Chaines",
+                    "ski_racks": "Porte-skis"
+                }
+
+            },
+            "vehicle": {
+                "member_since": "Membre depuis",
+                "from": "A partir de",
+                "day": "Jour",
+                "places": "places",
+                "i_reserve": "Je reserve"
+            }
+
+        }
     }
 }

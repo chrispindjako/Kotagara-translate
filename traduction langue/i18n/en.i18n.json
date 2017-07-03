@@ -89,5 +89,221 @@
         "latest_comments": {
             "has_rented_a": "has rented a"
         }
+    },
+    /*the rent car page*/
+    "rentCarPage": {
+        "header": "",
+        "how_to_propose": {
+            "title": "",
+            "register_your_vehicule": {
+                "title": ".",
+                "content": "."
+            },
+            "receive_requests": {
+                "title": "",
+                "content": "."
+            },
+            "rent_your_vehicle": {
+                "title": "",
+                "content": "."
+            }
+        },
+        "what_our_owners_think": "What our owners think"
+    },
+    /*the FAQ page*/
+    "FAQ": {
+        "Owners": {
+            "title": "",
+            "side_nav": {
+                "registration": "Registration",
+                "location": "",
+                "rules_of_the_community": "",
+                "the_small_unexpected": ""
+            },
+            "content": {
+                "registration": {
+                    "title": "?",
+                    "content": ".",
+                    "box": {
+                        "title": " ?",
+                        "content": ".",
+                        "link": "Visit Website"
+                    }
+                },
+                "location": {
+                    "title": "",
+                    "content": " ?",
+                    "detail": ".",
+                    "how_to_rent_my_car": {
+                        "title": " ?",
+                        "content": "."
+                    }
+                }
+            }
+        },
+        "Tenants": {
+            "title": ""
+        }
+    },
+    /*the contact page*/
+    "contact": {
+        "title": " ?",
+        "lead": {
+            "title": "...",
+            "content": {
+                "line_1": ".",
+                "line_2": "."
+            }
+        },
+        "form": {
+            "title": "",
+            "first_name": "",
+            "name": "Name",
+            "E-Mail": "E-Mail",
+            "number": "number",
+            "address": "Address",
+            "city": "City",
+            "preoccupation": {
+                "title": "",
+                "content": ""
+            },
+            "zip_code": "ZIP Code",
+            "submit": "Submit"
+        },
+        "contact_kotacar": "Contact KOTACAR"
+    },
+    /*the how it works page*/
+    "whow_it_works": {
+        "title": "Need a vehicle for rent?",
+        "lead1": {
+            "title": " …",
+            "content": {
+                "heading1": {
+                    "title": " .",
+                    "content": ""
+                },
+                "heading2": {
+                    "title": ".",
+                    "content": "."
+                },
+                "heading3": {
+                    "title": " .",
+                    "content": "."
+                }
+            }
+        },
+        "illustration": {
+            "content": " ?"
+        },
+        "lead2": {
+            "title": "…",
+            "content": {
+                "heading1": {
+                    "title": " .",
+                    "content": ""
+                },
+                "heading2": {
+                    "title": ".",
+                    "content": "."
+                },
+                "heading3": {
+                    "title": "",
+                    "content": "."
+                }
+            }
+        }
+    },
+    /*detail page*/
+    "detail": {
+        "description": {
+            "title": "Description",
+            "air_conditioner": "",
+            "speed_regulator": "",
+            "GPS": "GPS",
+            "baby_seat": " ",
+            "roof_box": "",
+            "bike_carriers": "-",
+            "cd_player": " ",
+            "audio_input": " ",
+            "snow_tires": " ",
+            "chains": "",
+            "ski_racks": ""
+        },
+        "accessoires": "",
+        "localisation": "",
+        "i_rent": {
+            "title": " ",
+            "year": "",
+            "manufacturer": "",
+            "model": "",
+            "country_of_registration": " ",
+            "places": "",
+            "portiaires": "",
+            "mileage": "",
+            "transmission": "",
+            "fuel_economy": " ",
+            "size_engine": "",
+            "cylinders": "",
+            "powers": "",
+            "type_fuel": "",
+            "warning": "",
+            "unauthorized_owner": "...",
+            "close": "Close"
+        }
+    },
+    /*components*/
+    "component": {
+        "search_form": {
+            "alert": {
+                "warning": "",
+                "alert_for_address": "",
+                "alert_for_date": ""
+            },
+            "no_found": {
+                "address": "",
+                "town": "",
+                "city": ""
+            },
+            "address": "",
+            "town": "",
+            "city": "",
+            "placeholder_position": "@Address, #Town, &City"
+        },
+        "search_result": {
+            "search_filter": {
+                "title": "Search filter",
+                "number_of": "number of",
+                "min_places": "minimum places",
+                "vehicle_age": "",
+                "up_to_5_years": "",
+                "up_to_10_years": "",
+                "more": "more",
+                "price": "Price",
+                "all_prices": "All prices",
+                "accessories": {
+                    "title": "",
+                    "cd_player": "CD player",
+                    "audio_input": "",
+                    "GPS": "GPS",
+                    "air_conditioner": "",
+                    "speed_regulator": "",
+                    "baby_seat": "",
+                    "roof_box": "",
+                    "bike_carriers": "",
+                    "snow_tires": "",
+                    "chains": "Chains",
+                    "ski_racks": ""
+                }
+
+            },
+            "vehicle": {
+                "member_since": "Member since",
+                "from": "From",
+                "day": "Day",
+                "places": "places",
+                "i_reserve": "I reserve"
+            }
+
+        }
     }
 }
