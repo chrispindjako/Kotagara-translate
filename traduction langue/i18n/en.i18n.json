@@ -255,18 +255,18 @@
     "component": {
         "search_form": {
             "alert": {
-                "warning": "",
-                "alert_for_address": "",
-                "alert_for_date": ""
+                "warning": "warning!",
+                "alert_for_address": "You did not choose your address",
+                "alert_for_date": "The date of the end must be upper to the date of the beginning"
             },
             "no_found": {
-                "address": "",
-                "town": "",
-                "city": ""
+                "address": "Any sends found",
+                "town": "No found municipality",
+                "city": "No found city"
             },
-            "address": "",
-            "town": "",
-            "city": "",
+            "address": "address",
+            "town": "town",
+            "city": "city",
             "placeholder_position": "@Address, #Town, &City"
         },
         "search_result": {
