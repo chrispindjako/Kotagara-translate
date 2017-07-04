@@ -101,8 +101,7 @@
                 "title": "Recevez des demandes de location",
                 "content": "Recevez plusieurs demandes de location parmi lesquelles vous ferez votre choix."
             },
-            "rent_your_vehic
-            le": {
+            "rent_your_vehicle": {
                 "title": "Mettre son véhicule en location",
                 "content": "Validez la transaction en vous accordant avec le locataire sur les conditions de location et entrer en possession de vos gains via virement bancaire ou service mobile money."
             }
