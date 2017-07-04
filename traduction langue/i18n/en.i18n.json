@@ -11,7 +11,6 @@
         "how_it_works": "How it work?",
         "change_photo": "Change photo",
         "my_profile": "My Profile"
-
     },
     /*the footer*/
     "footer": {
@@ -45,7 +44,6 @@
             "terms_of_use": "Terms of use",
             "site_plan": "Site plan"
         }
-
     },
     /*the homepage*/
     "homepage": {
@@ -294,7 +292,6 @@
                     "chains": "Chains",
                     "ski_racks": ""
                 }
-
             },
             "vehicle": {
                 "member_since": "Member since",
