@@ -92,23 +92,23 @@
     },
     /*the rent car page*/
     "rentCarPage": {
-        "header": "",
+        "header": "It is easy,profitable and secured",
         "how_to_propose": {
-            "title": "",
+            "title": "How to propose your vehicle in the rent on Kotacar?",
             "register_your_vehicule": {
-                "title": ".",
-                "content": "."
+                "title": "Register your vehicle.",
+                "content": "Complete the form to describe your vehicle. Add photos and define the price."
             },
             "receive_requests": {
-                "title": "",
-                "content": "."
+                "title": "Receive requests of rental",
+                "content": "Receive several demands of rent among which you will make your choice."
             },
             "rent_your_vehicle": {
-                "title": "",
-                "content": "."
+                "title": "rent your vehicle",
+                "content": "Validate the transaction by granting you with the tenant on the conditions of rent and take possession of your earnings via bank transfer or money mobile service."
             }
         },
-        "what_our_owners_think": "What our owners think"
+        "what_our_owners_think": "What our owners think?"
     },
     /*the FAQ page*/
     "FAQ": {
@@ -116,17 +116,17 @@
             "title": "",
             "side_nav": {
                 "registration": "Registration",
-                "location": "",
-                "rules_of_the_community": "",
-                "the_small_unexpected": ""
+                "location": "Progress of the rents",
+                "rules_of_the_community": "rules_of_the_community",
+                "the_small_unexpected": "the_small_unexpected"
             },
             "content": {
                 "registration": {
-                    "title": "?",
-                    "content": ".",
+                    "title": "How join?",
+                    "content": "Complete the form by informing your personal data there. After validation, your account KOTACAR will be activated. You can then make any forms of transaction on our platform in complete safety.",
                     "box": {
-                        "title": " ?",
-                        "content": ".",
+                        "title": "What Cubicle Kotacar?",
+                        "content": "The cubicle KOTACAR is a tool allowing you to receive and to store all them better supplies and demands of current(in class) rent.",
                         "link": "Visit Website"
                     }
                 },
@@ -147,12 +147,12 @@
     },
     /*the contact page*/
     "contact": {
-        "title": " ?",
+        "title": " Owner or tenant?",
         "lead": {
-            "title": "...",
+            "title": "Find answers to your questions in our assistance center..",
             "content": {
-                "line_1": ".",
-                "line_2": "."
+                "line_1": "If your questions are not handled(treated) there, contact us by completing the form below.",
+                "line_2": "We shall pass on your questions to the concerned team which will take care to answer you as soon as possible."
             }
         },
         "form": {
@@ -174,41 +174,41 @@
     },
     /*the how it works page*/
     "whow_it_works": {
-        "title": "Need a vehicle for rent?",
+        "title": "do you Need a vehicle for rent?",
         "lead1": {
-            "title": " …",
+            "title": "KOTACAR, it is simple, easy and fast ",
             "content": {
                 "heading1": {
-                    "title": " .",
-                    "content": ""
+                    "title": " create your account.",
+                    "content": "Complete the form of creation of account by registering your data (name, first name, address, e-mail."
                 },
                 "heading2": {
-                    "title": ".",
-                    "content": "."
+                    "title": "Look and reserve the vehicle of your choice.",
+                    "content": "Use the filter to look for the vehicle of your choice then reserve it in you informing about the conditions of rent."
                 },
                 "heading3": {
-                    "title": " .",
-                    "content": "."
+                    "title": " Get back his vehicle.",
+                    "content": "After reading and validation of the rental agreement, to acquit you of the expenses may get back your vehicle by appointment in agreement with the owner."
                 }
             }
         },
         "illustration": {
-            "content": " ?"
+            "content": "How to propose his vehicle in the rent on KOTACAR ?"
         },
         "lead2": {
-            "title": "…",
+            "title": "Make profitable your vehicle in three stages with KOTACAR ",
             "content": {
                 "heading1": {
-                    "title": " .",
-                    "content": ""
+                    "title": "create your account.",
+                    "content": "Complete the form of creation of account by registering your data (name, first name, address, e-mail."
                 },
                 "heading2": {
-                    "title": ".",
-                    "content": "."
+                    "title": "- Register your vehicle..",
+                    "content": "Made a description specifies of your vehicle by completing a form. Add photos by defining the price of the rent.."
                 },
                 "heading3": {
-                    "title": "",
-                    "content": "."
+                    "title": "Validation of demand",
+                    "content": "Accept and Validate the transaction by granting you with the tenant on the conditions of rent and take possession of your earnings via bank transfer or money mobile service."
                 }
             }
         }
