@@ -24,9 +24,9 @@
         "navigation": {
             "title": "Navigation",
             "content": {
-                "home": "",
+                "home": "Home",
                 "faq": "FAQ",
-                "contact": "",
+                "contact": "Contact",
                 "how_it_works": "How it works?",
                 "rent_my_vehicle": "Rent my vehicle"
             }
@@ -111,7 +111,7 @@
     /*the FAQ page*/
     "FAQ": {
         "Owners": {
-            "title": "",
+            "title": "FAQ propriétaires",
             "side_nav": {
                 "registration": "Registration",
                 "location": "Progress of the rents",
@@ -129,9 +129,9 @@
                     }
                 },
                 "location": {
-                    "title": "",
-                    "content": " ?",
-                    "detail": ".",
+                    "title": "Progress of the rents",
+                    "content": "What are my obligations as owner?",
+                    "detail": "How to rent my car?",
                     "how_to_rent_my_car": {
                         "title": " ?",
                         "content": "."
@@ -147,23 +147,23 @@
     "contact": {
         "title": " Owner or tenant?",
         "lead": {
-            "title": "Find answers to your questions in our assistance center..",
+            "title": "Find answers to your questions in our assistance center.",
             "content": {
                 "line_1": "If your questions are not handled(treated) there, contact us by completing the form below.",
                 "line_2": "We shall pass on your questions to the concerned team which will take care to answer you as soon as possible."
             }
         },
         "form": {
-            "title": "",
-            "first_name": "",
+            "title": "Contact us today",
+            "first_name": "first_name",
             "name": "Name",
             "E-Mail": "E-Mail",
             "number": "number",
             "address": "Address",
             "city": "City",
             "preoccupation": {
-                "title": "",
-                "content": ""
+                "title": "Concerned",
+                "content": "Describe here the problem which you met"
             },
             "zip_code": "ZIP Code",
             "submit": "Submit"
@@ -215,37 +215,37 @@
     "detail": {
         "description": {
             "title": "Description",
-            "air_conditioner": "",
-            "speed_regulator": "",
+            "air_conditioner": "air_conditioner",
+            "speed_regulator": "speed_regulator",
             "GPS": "GPS",
-            "baby_seat": " ",
-            "roof_box": "",
-            "bike_carriers": "-",
-            "cd_player": " ",
-            "audio_input": " ",
-            "snow_tires": " ",
-            "chains": "",
-            "ski_racks": ""
+            "baby_seat": "baby_seat",
+            "roof_box": "roof_box",
+            "bike_carriers": "bike_carriers",
+            "cd_player": "cd_player",
+            "audio_input": "audio_input ",
+            "snow_tires": "snow_tires ",
+            "chains": "chains",
+            "ski_racks": "ski_racks"
         },
-        "accessoires": "",
-        "localisation": "",
+        "accessoires": "accessoires",
+        "localisation": "localisation",
         "i_rent": {
-            "title": " ",
-            "year": "",
-            "manufacturer": "",
-            "model": "",
-            "country_of_registration": " ",
-            "places": "",
-            "portiaires": "",
-            "mileage": "",
-            "transmission": "",
-            "fuel_economy": " ",
-            "size_engine": "",
-            "cylinders": "",
-            "powers": "",
-            "type_fuel": "",
-            "warning": "",
-            "unauthorized_owner": "...",
+            "title": "I rent",
+            "year": "year",
+            "manufacturer": "manufacture",
+            "model": "model",
+            "country_of_registration": "country_of_registration ",
+            "places": "places",
+            "portiaires": "portiaires",
+            "mileage": "mileage",
+            "transmission": "transmission",
+            "fuel_economy": "fuel_economy ",
+            "size_engine": "size_engine",
+            "cylinders": "cylinders",
+            "powers": "powers",
+            "type_fuel": "type_fuel",
+            "warning": "warning",
+            "unauthorized_owner": "You cannot rent your own vehicle.",
             "close": "Close"
         }
     },
@@ -272,25 +272,25 @@
                 "title": "Search filter",
                 "number_of": "number of",
                 "min_places": "minimum places",
-                "vehicle_age": "",
-                "up_to_5_years": "",
-                "up_to_10_years": "",
+                "vehicle_age": "vehicle_age",
+                "up_to_5_years": "up_to_5_years",
+                "up_to_10_years": "up_to_10_years",
                 "more": "more",
                 "price": "Price",
                 "all_prices": "All prices",
                 "accessories": {
-                    "title": "",
+                    "title": "accessories",
                     "cd_player": "CD player",
-                    "audio_input": "",
+                    "audio_input": "audio_input",
                     "GPS": "GPS",
-                    "air_conditioner": "",
-                    "speed_regulator": "",
-                    "baby_seat": "",
-                    "roof_box": "",
-                    "bike_carriers": "",
-                    "snow_tires": "",
+                    "air_conditioner": "air_conditioner",
+                    "speed_regulator": "speed_regulator",
+                    "baby_seat": "baby_sea",
+                    "roof_box": "roof_box",
+                    "bike_carriers": "bike_carriers",
+                    "snow_tires": "snow_tires",
                     "chains": "Chains",
-                    "ski_racks": ""
+                    "ski_racks": "ski_racks"
                 }
             },
             "vehicle": {
