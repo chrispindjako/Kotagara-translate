@@ -245,7 +245,7 @@
             "powers": "Puissances",
             "type_fuel": "Type Carburant",
             "warning": "Attention",
-            "unauthorized_owner": " Vous ne pouvez pas louer votre propre véhicule...",
+            "unauthorized_owner": " Vous ne pouvez pas louer votre propre véhicule.",
             "close": "Fermer"
         }
     },
