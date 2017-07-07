@@ -49,7 +49,7 @@
     "homepage": {
         "slider": {
             "content": {
-                "line_1": "Location de véhicule en un clic !",
+                "line_1": "Location de véhicule",
                 "line_2": "Rapide, facile, et moins cher."
             }
         },
@@ -404,7 +404,7 @@
             "driver_is_license": {
                 "title": "Permis de conduire",
                 "license_number": "Numéro de Permis",
-                "date_obention_allowed": "Date d'obention du permis",
+                "Date_obtaining_of_the_licence": "Date d'obtention du permis",
                 "country_of_issue": "Pays d'emission"
             }
         }
