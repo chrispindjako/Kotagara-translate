@@ -90,10 +90,10 @@
     },
     /*the rent car page*/
     "rentCarPage": {
-        "header": "It is easy,profitable and secured",
+        "header": "It is easy, profitable and secured",
         "how_to_propose": {
             "title": "How to propose your vehicle in the rent on Kotacar?",
-            "register_your_vehicule": {
+            "register_your_vehicle": {
                 "title": "Register your vehicle.",
                 "content": "Complete the form to describe your vehicle. Add photos and define the price."
             },
@@ -301,6 +301,112 @@
                 "i_reserve": "I reserve"
             }
 
+        }
+    },
+    /*dashboard page*/
+    "dashboard": {
+        "sidebar": {
+            "dashboard": {
+                "title": "Dashboard",
+                "validation_expectations": "",
+                "payment_instances": "",
+                "closing_of_rental": "",
+                "validation_instances": "",
+                "expectations_of_payment": "",
+                "confirmed_requests": ""
+            },
+            "my_vehicules": {
+                "title": "",
+                "add_vehicle": "",
+                "list_my_vehicles": "",
+                "you_have_no_registered_vehicles": ""
+            },
+            "rent_stories": {
+                "title": "",
+                "closed_requests": "",
+                "canceled_by_you": "",
+                "canceled_by_owner": "",
+                "canceled_by_the_tenant": "",
+                "you_have_no_history": ""
+            },
+            "refund": {
+                "title": "",
+                "expectations": "",
+                "accepted": "",
+                "refused": ""
+            },
+            "my_incomes": {
+                "title": ""
+            },
+            "options_and_configuration": {
+                "title": "Options and configurations"
+            }
+        },
+        "config": {
+            "sorry": "",
+            "account_settings": {
+                "title": "",
+                "username": "",
+                "card_type": "",
+                "card_number": "",
+                "name_of_holder": "",
+                "control_number": "",
+                "expiration_date": "",
+                "network": "",
+                "phone_number": "",
+                "OTP_code": ""
+            },
+            "this_nickname_is_already_used": "",
+            "bank_details": "",
+            "warning": "",
+            "choose_your_credit_card": "",
+            "your_number_must_contain_16_characters": "",
+            "the_name_of_the_wearer_must_contain_at_least_3_characters": "",
+            "the_control_number_must_contain_3_characters": "",
+            "the_date_is_incorrect": "",
+            "mobile_account": "",
+            "select_a_network": "...",
+            "invalid_number": "...",
+            "invalid_OTP_code": "..."
+        },
+        "income": {
+            "all": "",
+            "a_year": "",
+            "a_semester": "",
+            "quarter": "",
+            "a_month": "",
+            "description": "",
+            "start_date": "",
+            "end_date": "",
+            "Duration_(day)": "",
+            "price": "",
+            "HT": "",
+            "TVA": "",
+            "cost": "",
+            "income": "",
+            "total": "",
+            "you_have_no_income_yet": "",
+            "with_chauffeur": "",
+            "without_chauffeur": ""
+        },
+        "my_profile": {
+            "title": "",
+            "personal_information": "",
+            "firstname": "",
+            "lastname": "",
+            "rccm": "",
+            "lega_form": "",
+            "denomination": "",
+            "phone_number": "",
+            "birthday": "",
+            "country": "",
+            "geographic_location": "",
+            "driver_is_license": {
+                "title": "",
+                "license_number": "",
+                "date_obention_allowed": "",
+                "country_of_issue": ""
+            }
         }
     }
 }

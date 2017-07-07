@@ -93,7 +93,7 @@
         "header": "C’est facile, sécurisé et rentable…",
         "how_to_propose": {
             "title": "Comment proposer votre véhicule à la location sur Kotacar?",
-            "register_your_vehicule": {
+            "register_your_vehicle": {
                 "title": "Inscrivez votre véhicule.",
                 "content": "Remplissez le formulaire pour décrire votre véhicule. Ajoutez des photos et définissez le prix."
             },
@@ -143,7 +143,7 @@
             "title": "FAQ locataires"
         }
     },
- /*the contact page*/
+    /*the contact page*/
     "contact": {
         "title": "Locataire ou propriétaire ?",
         "lead": {
@@ -300,6 +300,112 @@
                 "day": "Jour",
                 "places": "places",
                 "i_reserve": "Je reserve"
+            }
+        }
+    },
+    /*dashboard page*/
+    "dashboard": {
+        "sidebar": {
+            "dashboard": {
+                "title": "Tableau de bord",
+                "validation_expectations": "Attentes de validation",
+                "payment_instances": "Instances de paiement",
+                "closing_of_rental": "Clôture de Location",
+                "validation_instances": "Instances de validation",
+                "expectations_of_payment": "Attentes de paiement",
+                "confirmed_requests": "Demandes confirmées"
+            },
+            "my_vehicules": {
+                "title": "Mes véhicules",
+                "add_vehicle": "Ajouter un véhicule",
+                "list_my_vehicles": "Mes véhicules",
+                "you_have_no_registered_vehicles": "Vous avez aucun véhicule inscrit"
+            },
+            "rent_stories": {
+                "title": "Historique Locations",
+                "closed_requests": "Demandes clôturées",
+                "canceled_by_you": "Annulées par vous",
+                "canceled_by_owner": "Annulées par le propriétaire",
+                "canceled_by_the_tenant": "Annulées par l'intéressé",
+                "you_have_no_history": "Vous avez aucun historique..."
+            },
+            "refund": {
+                "title": "Remboursement",
+                "expectations": "En attentes",
+                "accepted": "Acceptés",
+                "refused": "Refusés"
+            },
+            "my_incomes": {
+                "title": "Mes Revenues"
+            },
+            "options_and_configuration": {
+                "title": "Options et configurations"
+            }
+        },
+        "config": {
+            "sorry": "Désolé",
+            "account_settings": {
+                "title": "Paramètres du Compte",
+                "username": "Pseudo",
+                "card_type": "Type de carte",
+                "card_number": "Numéro de carte",
+                "name_of_holder": "Nom du porteur",
+                "control_number": "Numéro de contrôle",
+                "expiration_date": "Date d'expiration",
+                "network": "réseau",
+                "phone_number": "Numéro de téléphone",
+                "OTP_code": "Code OTP"
+            },
+            "this_nickname_is_already_used": "Ce pseudo est déjà utilisé...",
+            "bank_details": "Coordonnées bancaires",
+            "warning": "Attention!",
+            "choose_your_credit_card": "Choisissez votre carte de crédit...",
+            "your_number_must_contain_16_characters": "votre numéro doit contenir 16 cararactères...",
+            "the_name_of_the_wearer_must_contain_at_least_3_characters": "Le nom du porteur doit contenir au moins 3 cararactères...",
+            "the_control_number_must_contain_3_characters": "Le numéro de contrôle doit contenir 3 cararectères...",
+            "the_date_is_incorrect": "La date est incorrecte...",
+            "mobile_account": "Mobile account",
+            "select_a_network": "Selectionnez un reseau...",
+            "invalid_number": "Numéro invalide...",
+            "invalid_OTP_code": "Code OTP invalide..."
+        },
+        "income": {
+            "all": "Tous",
+            "a_year": "un an",
+            "a_semester": "Un semestre",
+            "quarter": "Un trimestre",
+            "a_month": "Un mois",
+            "description": "Description",
+            "start_date": "Date début",
+            "end_date": "Date fin",
+            "Duration_(day)": "Durée (jour)",
+            "price": "Prix",
+            "HT": "HT",
+            "TVA": "TVA",
+            "cost": "Frais",
+            "income": "Revenu",
+            "total": "TOTAL:",
+            "you_have_no_income_yet": "Vous avez aucun revenu pour le moment...",
+            "with_chauffeur": "Avec chauffeur",
+            "without_chauffeur": "sans chauffeur"
+        },
+        "my_profile": {
+            "title": "Modifier profile",
+            "personal_information": "Information Personnelle",
+            "firstname": "Prénoms",
+            "lastname": "Nom",
+            "rccm": "RCCM",
+            "lega_form": "Forme Juridique",
+            "denomination": "Denomination",
+            "phone_number": "Numéro de téléphone",
+            "birthday": "Date de naissance",
+            "country": "Pays",
+            "geographic_location": "situation géographique précis",
+            "driver_is_license": {
+                "title": "Permis de conduire",
+                "license_number": "Numéro de Permis",
+                "date_obention_allowed": "Date d'obention du permis",
+                "country_of_issue": "Pays d'emission"
             }
         }
     }
