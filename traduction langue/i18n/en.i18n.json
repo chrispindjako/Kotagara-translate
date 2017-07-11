@@ -17,7 +17,7 @@
         "about": {
             "title": "About",
             "content": {
-                "line_1": "KOTACAR is a platform creates by KOTAGARA. She allows you to rent quickly, at a lower cost and in complete safety, for vehicles of any kind also by giving you the possibility of putting in it rented.",
+                "line_1": "KOTACAR is a platform creates by KOTAGARA. it allows you to rent quickly, at a lower cost and in complete safety, for vehicles of any kind also by giving you the possibility of putting in it rented.",
                 "line_2": "Feel reassured! Allianz insures all our rents, and we make your needs our priorities."
             }
         },
@@ -61,8 +61,8 @@
         "supplement_your_income": {
             "title": "Supplement your income",
             "content": {
-                "line_1": "Make rent your vehicle on free KOTACAR. registration.",
-                "line_2": "feel reassured! Allianz insures all our rents"
+                "line_1": "Make rent your vehicle with KOTACAR. registration.",
+                "line_2": "Feel reassured! Allianz insures all our rents"
             },
             "button": "register my vehicle"
         },
@@ -121,10 +121,10 @@
             "content": {
                 "registration": {
                     "title": "How join?",
-                    "content": "Complete the form by informing your personal data there. After validation, your account KOTACAR will be activated. You can then make any forms of transaction on our platform in complete safety.",
+                    "content": "Complete the form by informing your personal data. After validation, your account KOTACAR will be activated. You can then make any forms of transaction on our platform in complete safety.",
                     "box": {
                         "title": "What Cubicle Kotacar?",
-                        "content": "The cubicle KOTACAR is a tool allowing you to receive and to store all them better supplies and demands of current(in class) rent.",
+                        "content": "The cubicle KOTACAR is a tool allowing you to receive and to store all them better supplies and demands of current 0rent.",
                         "link": "Visit Website"
                     }
                 },
@@ -149,7 +149,7 @@
         "lead": {
             "title": "Find answers to your questions in our assistance center.",
             "content": {
-                "line_1": "If your questions are not handled(treated) there, contact us by completing the form below.",
+                "line_1": "If your questions are not treated there, contact us by completing the form below.",
                 "line_2": "We shall pass on your questions to the concerned team which will take care to answer you as soon as possible."
             }
         },
@@ -245,7 +245,7 @@
             "powers": "powers",
             "type_fuel": "type_fuel",
             "warning": "warning",
-            "unauthorized_owner": "You cannot rent your own vehicle.",
+            "unauthorized_owner": "You cannot rent vehicle if you are registered as owner.",
             "close": "Close"
         }
     },
