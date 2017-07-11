@@ -245,7 +245,7 @@
             "powers": "Puissances",
             "type_fuel": "Type Carburant",
             "warning": "Attention",
-            "unauthorized_owner": " Vous ne pouvez pas louer véhicule si vous êtes inscrit en tant que propriétaire.",
+            "unauthorized_owner": " Vous ne pouvez pas louer de véhicule si vous êtes inscrit en tant que propriétaire.",
             "close": "Fermer"
         }
     },
