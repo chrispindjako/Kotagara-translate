@@ -231,6 +231,7 @@
         "localisation": "localisation",
         "i_rent": {
             "title": "I rent",
+            "continue": "continue",
             "year": "year",
             "manufacturer": "manufacture",
             "model": "model",
