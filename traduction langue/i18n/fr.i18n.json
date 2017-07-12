@@ -231,6 +231,7 @@
         "localisation": "Localisation",
         "i_rent": {
             "title": "Je loue",
+            "continue": "continue",
             "year": "Année",
             "manufacturer": "Constructeur",
             "model": "Modèle",
